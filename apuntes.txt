@@ -1,0 +1,7 @@
+git init = inicializa el repositorio
+git add . = agrege todos los archivos modificados
+git commi -m "" = crea un mensaje
+git push = sube los cambios a la rama, en la cual estas hubicado
+git pull = llama los cambios de otras ramas 
+git branch = crea una rama
+git checkout = se cambia a una rama creada
